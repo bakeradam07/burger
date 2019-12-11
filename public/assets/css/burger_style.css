@@ -1,0 +1,17 @@
+body {
+    background: skyblue;
+    font-family: 'Times New Roman', Times, serif;
+    width: 100%;
+}
+
+.container {
+    text-align: center;
+}
+
+#burger-picture {
+    height: 150px;
+}
+
+#header {
+    text-decoration-color: aliceblue;
+}
