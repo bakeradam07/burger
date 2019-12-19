@@ -15,3 +15,11 @@ body {
 #header {
     text-decoration-color: aliceblue;
 }
+
+.create-form {
+    text-align: center;
+}
+
+li {
+    font-size: larger;
+}
